@@ -1,4 +1,4 @@
-# SHM_Diploma_Thesis_Christos_Stamopoulos
+# Diploma_Thesis_Christos_Stamopoulos
 Vibration-based Unsupervised Damage Detection on an Operating Wind Turbine using MISO-ARX Transmittance Functions and Multiple Model Based Methods
 
 Present thesis attempts structural health of monitoring in a Vestas V27 wind turbine blade, via Stochastic Time Series method under real operating and environmental 
